@@ -1,0 +1,11 @@
+# ninja log v5
+3	978	7472237180948768	CMakeFiles/SoftRender.dir/main.cpp.obj	3231c76c9185b6af
+1229	1789	7472237186950752	SoftRender.exe	84c61e4cade65758
+835	1229	7472237183147788	funcs/funcs.lib	696495ca0ddf341f
+1	168	7472239749916370	build.ninja	3c142e83a5c9a5cd
+20	834	7472237179565686	funcs/CMakeFiles/funcs.dir/func.cpp.obj	ff745ba09b3c47a3
+2	247	7472202027433987	CMakeFiles/SoftRender.dir/func.cpp.obj	b62c92fdee1fc50e
+2	636	7472238403864513	CMakeFiles/main2.dir/main2.cpp.obj	7e4c3fc6866b2033
+636	1334	7472238410191602	main2.exe	2e1d4df452dc305d
+2	553	7472238486982520	CMakeFiles/SoftRender.dir/main2.cpp.obj	58df3fff3ab6d133
+2	359	7472240232758926	SoftRender.exe	84c61e4cade65758

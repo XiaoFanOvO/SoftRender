@@ -1,0 +1,7 @@
+D:/Fork/SoftRender/CMakeTest/out/build/x64-Debug/CMakeFiles/SoftRender.dir
+D:/Fork/SoftRender/CMakeTest/out/build/x64-Debug/CMakeFiles/main2.dir
+D:/Fork/SoftRender/CMakeTest/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+D:/Fork/SoftRender/CMakeTest/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+D:/Fork/SoftRender/CMakeTest/out/build/x64-Debug/funcs/CMakeFiles/funcs.dir
+D:/Fork/SoftRender/CMakeTest/out/build/x64-Debug/funcs/CMakeFiles/edit_cache.dir
+D:/Fork/SoftRender/CMakeTest/out/build/x64-Debug/funcs/CMakeFiles/rebuild_cache.dir
