@@ -10,8 +10,9 @@
 #define DEG2RAD(theta)		(0.01745329251994329 * (theta))
 #define FRACTION(v)			((v) - (int)(v))
 
-using byte = unsigned char;
+using byte = unsigned char;//byte是别名
 
+//注意排布顺序是B-G-R-A(在windows窗体里面的特例)
 struct RGBA {
 	byte mB;
 	byte mG;

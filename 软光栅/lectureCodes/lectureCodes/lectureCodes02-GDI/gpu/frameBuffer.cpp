@@ -16,6 +16,7 @@ FrameBuffer::FrameBuffer(uint32_t width, uint32_t height, void* buffer) {
 
 }
 
+//非外界传进来的才有必要delete
 FrameBuffer::~FrameBuffer() {
 	if (!mExternBuffer && mColorBuffer) {
 		delete[] mColorBuffer;

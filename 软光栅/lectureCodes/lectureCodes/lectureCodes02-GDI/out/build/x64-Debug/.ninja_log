@@ -1,0 +1,12 @@
+# ninja log v5
+15	797	7473906911240999	gpu/CMakeFiles/gpuLib.dir/frameBuffer.cpp.obj	a19154b3fde4abab
+10	1187	7473906915140716	application/CMakeFiles/applicationLib.dir/application.cpp.obj	bc5a1505c88a35a5
+20	1193	7473906915140716	gpu/CMakeFiles/gpuLib.dir/gpu.cpp.obj	2acc1f42e9efd806
+3	1197	7473906915220499	CMakeFiles/softRenderer.dir/main.cpp.obj	4e1c46812262a22f
+1193	1338	7473906916641808	gpu/gpuLib.lib	e1a97a9b8ec55435
+1189	1338	7473906916651781	application/applicationLib.lib	f1c624be608edc9e
+1338	1729	7473906920413116	softRenderer.exe	ecae07eda4c1a2be
+6	1180	7473915210051421	CMakeFiles/softRenderer.dir/main.cpp.obj	4e1c46812262a22f
+13	1184	7473915210091307	gpu/CMakeFiles/gpuLib.dir/gpu.cpp.obj	2acc1f42e9efd806
+1184	1233	7473915210560069	gpu/gpuLib.lib	e1a97a9b8ec55435
+1233	1570	7473915213572259	softRenderer.exe	ecae07eda4c1a2be

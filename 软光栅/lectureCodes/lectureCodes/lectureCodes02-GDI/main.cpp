@@ -38,8 +38,8 @@ int APIENTRY wWinMain(
 		return -1;
 	}
 
-	//将bmp指向的内存配置到sgl当中 
 	sgl->initSurface(app->getWidth(), app->getHeight(), app->getCanvas());
+	//将bmp指向的内存配置到sgl当中 
 
 	bool alive = true;
 	while (alive) {

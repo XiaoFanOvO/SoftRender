@@ -1,0 +1,9 @@
+D:/Fork/SoftRender/软光栅/lectureCodes/lectureCodes/lectureCodes02-GDI/out/build/x64-Debug/CMakeFiles/softRenderer.dir
+D:/Fork/SoftRender/软光栅/lectureCodes/lectureCodes/lectureCodes02-GDI/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+D:/Fork/SoftRender/软光栅/lectureCodes/lectureCodes/lectureCodes02-GDI/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+D:/Fork/SoftRender/软光栅/lectureCodes/lectureCodes/lectureCodes02-GDI/out/build/x64-Debug/application/CMakeFiles/applicationLib.dir
+D:/Fork/SoftRender/软光栅/lectureCodes/lectureCodes/lectureCodes02-GDI/out/build/x64-Debug/application/CMakeFiles/edit_cache.dir
+D:/Fork/SoftRender/软光栅/lectureCodes/lectureCodes/lectureCodes02-GDI/out/build/x64-Debug/application/CMakeFiles/rebuild_cache.dir
+D:/Fork/SoftRender/软光栅/lectureCodes/lectureCodes/lectureCodes02-GDI/out/build/x64-Debug/gpu/CMakeFiles/gpuLib.dir
+D:/Fork/SoftRender/软光栅/lectureCodes/lectureCodes/lectureCodes02-GDI/out/build/x64-Debug/gpu/CMakeFiles/edit_cache.dir
+D:/Fork/SoftRender/软光栅/lectureCodes/lectureCodes/lectureCodes02-GDI/out/build/x64-Debug/gpu/CMakeFiles/rebuild_cache.dir
